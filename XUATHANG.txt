@@ -1,0 +1,4 @@
+MH001     XH001     Nguyen_Duong         Nguyen_Van_A         1  1  2016 3          120        
+MH002     XH002     Nguyen_Duong         Nguyen_Van_B         3  3  2016 4          2400       
+MH003     XH003     Nguyen_Duong         Nguyen_Van_C         3  4  2016 0          0          
+MH003     XH004     Nguyen_Duong         Nguyen_Avn_D         3  3  2016 5          6500       

@@ -1,0 +1,9 @@
+MH001     2               Den_Pin               30         40         897        
+MH002     Full_Hd         Tivi_45               500        600        396        
+MH003     4k_Uhd          Tivi_456ty            1200       1300       395        
+MH005     Mini            Quat_45fr             50         60         450        
+MH006     Dfgfg           Fdgdf                 50         57         0          
+MH007     Tot             To_Vit                300        400        0          
+MH008     4k_Full_Hd      Smart_Tivi_5          400        500        0          
+MH009     Min             Den_In_2              40         60         0          
+MH004     Nho             Quat_Gio              100        200        1144       

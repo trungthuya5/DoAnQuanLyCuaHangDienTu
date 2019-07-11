@@ -1,0 +1,8 @@
+MH001     NH001     Nguyn_Duong              Toshiba         1  1  2016 300        9000       
+MH002     NH002     Nguyen_Duong             Toshiba         2  2  2016 400        200000     
+MH001     NH003     Nguyen_Duong             Toshiba         2  3  2016 600        18000      
+MH004     NH004     Nguyen_Duong             Sony            3  3  2016 700        70000      
+MH005     NH005     Nguyen_Duong             Sony            3  3  2016 444        22200      
+MH004     NH006     Nguyen_Duong             Sony            4  5  2016 444        44400      
+MH003     NH007     Nguyen_Duong             Toshiba         1  1  2016 400        480000     
+MH005     MH777     Nguyen_Duong             Lucbinh         1  1  2011 6          300        
