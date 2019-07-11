@@ -1,6 +1,5 @@
  
-#define MAX 100
-int a = -1, b = -1, c = -1;
+
 #include <stdio.h>
 #include <conio.h>
 #include <Windows.h>
@@ -10,6 +9,7 @@ int a = -1, b = -1, c = -1;
 #include <stdlib.h>
 #include <math.h>
 
+#define MAX 100
 struct Date{
 	int ngay;
 	int thang;
@@ -43,6 +43,9 @@ struct XuatHang {
 typedef struct MatHang MATHANG;
 typedef struct NhapHang NHAPHANG;
 typedef struct XuatHang XUATHANG;
+
+
+int a = -1, b = -1, c = -1;
 
 MATHANG MH[MAX];
 NHAPHANG NH[MAX];
